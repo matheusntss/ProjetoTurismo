@@ -26,6 +26,10 @@ body {
   margin-bottom: 104px;
 }
 
+#image-subt img{
+  margin-bottom: 24px;
+}
+
 #list{
   margin-bottom: 64px;
 }
